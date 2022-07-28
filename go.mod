@@ -1,3 +1,3 @@
-module gowork.vercel.app
+module gowork.deno.dev
 
 go 1.19
